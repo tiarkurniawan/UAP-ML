@@ -39,7 +39,7 @@ Aplikasi web Flask yang terdapat dalam file app.py berperan sebagai antarmuka un
 Copy code
 python app.py
 Buka browser dan akses
-http://127.0.0.1:5000/.
+http://127.0.0.1:8000/.
 Anda dapat mengunggah gambar dan mendapatkan prediksi.
 ```
 Buka browser dan akses http://127.0.0.1:8000/. Anda dapat mengunggah gambar dan mendapatkan prediksi.
