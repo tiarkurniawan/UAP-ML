@@ -19,8 +19,9 @@ Repositori ini memuat contoh implementasi sederhana model klasifikasi gambar den
 
 ## Dependensi
 Pastikan untuk menginstal library yang dibutuhkan sebelum menjalankan aplikasi:
-bash
+```bash
 pip install flask tensorflow
+```
 
 
 ## Pelatihan Model
