@@ -11,6 +11,7 @@ Repositori ini memuat contoh implementasi sederhana model klasifikasi gambar den
 |- static
 |- templates
 |- app.py
+|- file.ipynb
 |- model.h5
 |- requirements.txt
 |- README.md
