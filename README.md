@@ -42,7 +42,7 @@ Buka browser dan akses
 http://127.0.0.1:5000/.
 Anda dapat mengunggah gambar dan mendapatkan prediksi.
 ```
-Buka browser dan akses http://127.0.0.1:5000/. Anda dapat mengunggah gambar dan mendapatkan prediksi.
+Buka browser dan akses http://127.0.0.1:8000/. Anda dapat mengunggah gambar dan mendapatkan prediksi.
 
 ![Screenshot 2023-12-30 122021](https://github.com/tiarkurniawan/UAP-ML/assets/108686908/9b7ddf3c-3b12-420b-8598-c7e0d8fde76b)
 
